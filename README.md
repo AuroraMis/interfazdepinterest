@@ -16,5 +16,5 @@ Este proyecto es un clon de la interfaz de inicio de Pinterest, creado puramente
 ![Demo](/imagenes/vistaprevia.jpg)
 
 ### Contacto
-Aurora Mis: [LinkedIn]()
+Aurora Mis: [LinkedIn](https://www.linkedin.com/in/aurora-mis-aguilar-aa38b728a/)
   
