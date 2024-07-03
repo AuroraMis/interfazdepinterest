@@ -139,7 +139,7 @@ header nav img#pinterest-icon:hover{
     display: none;
 }
 
-,imagenes .card-image button a{
+.imagenes .card-image button a{
     text-decoration: none;
     color: white;
     font-size: 16px;
