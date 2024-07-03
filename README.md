@@ -13,6 +13,7 @@ Este proyecto es un clon de la interfaz de inicio de Pinterest, creado puramente
 + **Google Icons**: Para íconos personalizadas.
 
 ### Vista previa del proyecto
+![Demo](/imagenes/vistaprevia.jpg)
 
 ### Contacto
 Aurora Mis: [LinkedIn]()
